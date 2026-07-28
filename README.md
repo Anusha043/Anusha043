@@ -4,7 +4,7 @@
 - 🎓 Final-year Information Science Engineering student
 - 💻 Aspiring Software Developer
 - 🌱 Currently learning Java, FastAPI, MongoDB, and Backend Development
-- 🚀 Interested in Java Full Stack Development
+- 🚀 Interested in Backend and Full Stack Development
 
 ## 🛠️ Skills
 - Java
