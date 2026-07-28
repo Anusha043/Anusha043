@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Anusha G K 👋
 
-<!--
-**Anusha043/Anusha043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🎓 Final-year Information Science Engineering student
+- 💻 Aspiring Software Developer
+- 🌱 Currently learning Java, FastAPI, MongoDB, and Backend Development
+- 🚀 Interested in Java Full Stack Development
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Java
+- Python
+- FastAPI
+- MongoDB
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+### Backend Assignment (FastAPI + MongoDB + JWT)
+- User Authentication using JWT
+- Document Upload API
+- RAG Search API
+- MongoDB Atlas Integration
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/anusha-g-k-3b2668321
+
+⭐ Thanks for visiting my profile!
